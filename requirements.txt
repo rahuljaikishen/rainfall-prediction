@@ -1,0 +1,9 @@
+fastapi==0.77
+uvicorn==0.17.6
+fastapi-utils==0.2.1
+streamlit==1.9.0
+pandas==1.4.2
+python-multipart==0.0.5
+psycopg2==2.9.3
+scikit-learn==1.1.1
+pytest-shutil==1.7.0
